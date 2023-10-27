@@ -12,13 +12,13 @@ gem 'pry'
 gem 'rspec'
 gem 'webdrivers'
 
-Run this command to install gem bundle install
+#Run this command to install gem bundle install
 Add env file like this features/support/env.rb
 Run this command to install cucumber --init
 Editor (Visual Studio Code)
 Install Cucumber extension in text editor
 
-How to run this automation scenarios in local
+#How to run this automation scenarios in local
 Clone this repo using this command:
 $ git clone https://github.com/iqbalridwan/assesment5_jubelio.git
 
